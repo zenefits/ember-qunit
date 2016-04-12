@@ -16,7 +16,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "ember-test-helpers": "^0.5.22"
+    "ember-test-helpers": "git+https://github.com/zenefits/ember-test-helpers#v0.5.22-zenefits"
   },
   "devDependencies": {
     "bower": "^1.3.12",
